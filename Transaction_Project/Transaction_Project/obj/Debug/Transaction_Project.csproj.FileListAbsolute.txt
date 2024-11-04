@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\bin\Debug\Transaction_Project.exe.config
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\bin\Debug\Transaction_Project.exe
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\bin\Debug\Transaction_Project.pdb
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.exe
+C:\Users\bengi\Desktop\C# Projects\Transaction_Project\Transaction_Project\obj\Debug\Transaction_Project.pdb

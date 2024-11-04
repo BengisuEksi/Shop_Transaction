@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41BA3798-03CC-467D-8C22-DC97D5879CD0}|Transaction_Project\\Transaction_Project.csproj|C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\transaction_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41BA3798-03CC-467D-8C22-DC97D5879CD0}|Transaction_Project\\Transaction_Project.csproj|solutionrelative:transaction_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BA3798-03CC-467D-8C22-DC97D5879CD0}|Transaction_Project\\Transaction_Project.csproj|c:\\users\\bengi\\desktop\\c# projects\\transaction_project\\transaction_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BA3798-03CC-467D-8C22-DC97D5879CD0}|Transaction_Project\\Transaction_Project.csproj|solutionrelative:transaction_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\Transaction_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Transaction_Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\Transaction_Project\\Form1.cs*",
+              "RelativeToolTip": "Transaction_Project\\Form1.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAMwKEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:57:33.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\Transaction_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Transaction_Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Transaction_Project\\Transaction_Project\\Form1.cs [Design]*",
+              "RelativeToolTip": "Transaction_Project\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:55:12.705Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 3,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
